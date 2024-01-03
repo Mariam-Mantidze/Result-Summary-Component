@@ -259,6 +259,9 @@ button {
   .common p {
     font-size: 1.8rem;
   }
+  button {
+    margin-top: 4.1rem;
+  }
   button:hover {
     background: var(
       --Gradient-1,
