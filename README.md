@@ -8,7 +8,7 @@ The Result Summary Component is a dynamic and responsive UI element aimed at pro
 
 This project showcases a result summary component that provides a breakdown of scores across different categories like Reaction, Memory, Verbal, and Visual. It is built primarily using HTML and CSS and demonstrates a proficient use of CSS media queries to ensure the component is responsive and adapts gracefully to different screen sizes.
 
-![Result Summary Component Screenshot](./design/active-states.jpg);
+![Result Summary Component Screenshot](./design/active-states.jpg)
 
 You can view the live project here: [Result Summary Component Live](https://mariam-mantidze.github.io/Result-Summary-Component/)
 
