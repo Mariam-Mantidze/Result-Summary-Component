@@ -7,11 +7,13 @@ html {
 body {
   font-family: "Hanken Grotesk", sans-serif;
   background: var(--Very-Light-blue, #ecf2ff);
-  /* min-height: 100vh; */
+  min-height: 100vh;
   display: flex;
   justify-content: center;
+  align-items: flex-start;
 }
 .result-summary {
+  /* width: 100%; */
   max-width: 73.5rem;
   display: flex;
   flex-direction: column;
@@ -218,7 +220,7 @@ button:hover {
 @media screen and (min-width: 1440px) {
   body {
     display: flex;
-    justify-content: center;
+    /* justify-content: center; */
     align-items: center;
     height: 100vh;
   }
